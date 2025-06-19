@@ -1,6 +1,7 @@
 # Android Application
 A user friendly mobile app where user need to fill required paratmeter and submit then it provide chance of addmission in percentage 
 Flow of Application 
+
 ![finalarchi](https://github.com/user-attachments/assets/52fbd3e4-1f1e-41a8-bc70-b6aaa4c24ccd)
 
 
