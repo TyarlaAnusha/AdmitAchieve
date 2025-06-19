@@ -8,7 +8,7 @@ Flow of Application
 
 
 
-View of Application
+
 <img width="635" alt="output" src="https://github.com/user-attachments/assets/19ae2a5b-ad61-43ef-9d35-b8411ea03f10" />
 
 
